@@ -18,6 +18,7 @@ Materiais necessários:
 Portas:
 
 2º - 
+
 3º - Botão que irá ligar a fonte de alimentação da envasadora
 4º - Sensor que ficará embaixo na primeira linha de verificação para identificar se há um copo.
 5º - Bomba d'água que irá encher o copo
