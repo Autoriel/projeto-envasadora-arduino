@@ -1,18 +1,18 @@
-# projeto-envasadora-arduino
+## projeto-envasadora-arduino
 Envasadora que detecta copos vazios e os enche de forma autônoma. 
 
 
-## Sobre o projeto:
+### Sobre o projeto:
 
 O projeto consiste em uma envasadora autônoma que, ao ser ligada, verificará se os copos que estão passando por ela estão cheios ou vazios. Caso estejam vazios, ela irá parar a esteira e encher os copos até o nível estabelecido. Caso contrário, seguirá seu fluxo normal até a segunda verificação. A ideia inicial era, assim que o copo não passasse na segunda verificação, uma segunda ação fosse tomada pela envasadora. Devido a falta de tempo, só conseguimos fazer com que a esteira parasse caso um copo vazio passasse pela segunda verificação. O código, no entanto, está semi-pronto para uma ação alternativa.
 
 
-## Importante:
+### Importante:
 
 Esse projeto foi feito por uma equipe de sete pessoas em um projeto final de um curso técnico e envolve um conhecimento avançado nas áreas de mecânica e eletrônica. O código foi elaborado por mim e estou disponibilizando ao público para quem tiver interesse em fazer um projeto similar. Devido a complexidade do projeto e inviabilidade de fazer o tutorial aqui, apenas será informado os materiais e portas utilizadas.
 
 
-## Materiais necessários:
+### Materiais necessários:
 
 1 - Uma placa Arduino Uno
 
@@ -25,7 +25,7 @@ Esse projeto foi feito por uma equipe de sete pessoas em um projeto final de um 
 5 - Uma interface de relé para arduíno
 
 
-## Portas:
+### Portas:
 
 2º - 
 
