@@ -27,7 +27,7 @@ Esse projeto foi feito por uma equipe de sete pessoas em um projeto final de um 
 
 ### Portas:
 
-2º - 
+2º - Relé que ligará e desligará a esteira
 
 3º - Botão que irá ligar a fonte de alimentação da envasadora
 
@@ -37,7 +37,7 @@ Esse projeto foi feito por uma equipe de sete pessoas em um projeto final de um 
 
 6º - Sensor que ficará embaixo na segunda linha de verificação para identificar se há um copo.
 
-7º -
+7º - Relé que ligará e desligará a esteira
 
 8º - Sensor que ficará em cima na primeira linha de verificação para identificar se o copo está cheio.
 
